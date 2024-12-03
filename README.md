@@ -5,9 +5,7 @@ I'm **Shruti Khandagale**, a **B.Tech IT student** specializing in **Cyber Secur
 ---
 
 ### 🔭 What I’m working on:
-- **Fake News Detection System** leveraging AI to combat misinformation.  
-- A **Flask-based Water Quality Prediction App** to determine water safety.  
-- Expanding my portfolio with projects like **Handwritten Digit Recognition** and more.
+- A **Real time Water Quality Prediction of Ganga River using AI driven DSS, IoT and Dynamic Models** to determine water safety.  
 
 ---
 
